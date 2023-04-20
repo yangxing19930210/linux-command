@@ -592,8 +592,8 @@ https://raw.githubusercontent.com/jaywcjlove/linux-command/master/command/<å‘½ä»
 <a href="https://github.com/daydaygo" title="dayday">
   <img src="https://avatars.githubusercontent.com/u/3986303?v=4" width="42;" alt="dayday"/>
 </a>
-<a href="https://github.com/denymz" title="deny">
-  <img src="https://avatars.githubusercontent.com/u/23657601?v=4" width="42;" alt="deny"/>
+<a href="https://github.com/denymz" title="Deny">
+  <img src="https://avatars.githubusercontent.com/u/23657601?v=4" width="42;" alt="Deny"/>
 </a>
 <a href="https://github.com/dongpohezui" title="dongpohezui">
   <img src="https://avatars.githubusercontent.com/u/40270581?v=4" width="42;" alt="dongpohezui"/>
@@ -621,6 +621,9 @@ https://raw.githubusercontent.com/jaywcjlove/linux-command/master/command/<å‘½ä»
 </a>
 <a href="https://github.com/huangyoo" title="huangyao">
   <img src="https://avatars.githubusercontent.com/u/16477499?v=4" width="42;" alt="huangyao"/>
+</a>
+<a href="https://github.com/Coder-ZJQ" title="jqz3.tech">
+  <img src="https://avatars.githubusercontent.com/u/15013685?v=4" width="42;" alt="jqz3.tech"/>
 </a>
 <a href="https://github.com/juemuren4449" title="juemuren4449">
   <img src="https://avatars.githubusercontent.com/u/12666694?v=4" width="42;" alt="juemuren4449"/>
