@@ -466,6 +466,9 @@ https://raw.githubusercontent.com/jaywcjlove/linux-command/master/command/<å‘½ä»
 <a href="https://github.com/Wvvatt" title="wVVaTT">
   <img src="https://avatars.githubusercontent.com/u/38394031?v=4" width="42;" alt="wVVaTT"/>
 </a>
+<a href="https://github.com/yangxing19930210" title="yangxing">
+  <img src="https://avatars.githubusercontent.com/u/25998610?v=4" width="42;" alt="yangxing"/>
+</a>
 <a href="https://github.com/Jeffery186" title="Shell">
   <img src="https://avatars.githubusercontent.com/u/39795988?v=4" width="42;" alt="Shell"/>
 </a>
@@ -732,9 +735,6 @@ https://raw.githubusercontent.com/jaywcjlove/linux-command/master/command/<å‘½ä»
 </a>
 <a href="https://github.com/xhal" title="xhal">
   <img src="https://avatars.githubusercontent.com/u/34055638?v=4" width="42;" alt="xhal"/>
-</a>
-<a href="https://github.com/yangxing19930210" title="yangxing">
-  <img src="https://avatars.githubusercontent.com/u/25998610?v=4" width="42;" alt="yangxing"/>
 </a>
 <a href="https://github.com/yanyixing" title="yanyx">
   <img src="https://avatars.githubusercontent.com/u/12455492?v=4" width="42;" alt="yanyx"/>
